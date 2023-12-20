@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut ! Je suis Frédérique Laguerre,</h1>
-<h3 align="center">Un développeur fullstack passionné originaire de Martinique</h3>
+<h3 align="center">Une développeuse fullstack passionnée originaire de Martinique</h3>
 
  Fraîchement sorti du bootcamp du Wagon. Avant cela, j'ai obtenu un master en digital marketing et data analysis.
 
