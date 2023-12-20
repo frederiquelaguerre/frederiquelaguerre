@@ -5,11 +5,9 @@
 
 🌱 Actuellement, je m'immerge dans le monde du développement web, mettant en pratique les langages techniques appris au cours des derniers mois.
 
-👨‍⚕️ Fun fact : Pendant les trois dernières années, j'ai adoré être papa au foyer.
+🔥 Je travaille sur un projet pour fortifier mon portfolo, intitulé "MangaMemo", et je prends énormément de plaisir dans ce processus.
 
-🔥 Je travaille toujours sur mon projet final au Wagon, intitulé "Share", et je prends énormément de plaisir dans ce processus.
-
-📫 N'hésitez pas à me contacter à  **laguerre.frrederique@gmail.com** Je suis ouvert aux échanges, partage d'expériences ou à l'exploration de collaborations potentielles. Construisons quelque chose d'extraordinaire ensemble ! 🚀
+📫 N'hésitez pas à me contacter à  **laguerre.frrederique@gmail.com** Je suis ouverte aux échanges, partage d'expériences ou à l'exploration de collaborations potentielles. Construisons quelque chose d'extraordinaire ensemble ! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
