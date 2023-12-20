@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Frédérique Laguerre</h1>
-<h3 align="center">A passionate fullstack developer from Martinique</h3>
+<h1 align="center">👋 Salut ! Je suis Frédérique Laguerre,</h1>
+<h3 align="center">Un développeur fullstack passionné originaire de Martinique</h3>
 
-- 🌱 I’m currently learning **Javascript**
+ Fraîchement sorti du bootcamp du Wagon. Avant cela, j'ai obtenu un master en digital marketing et data analysis.
 
-- 📫 How to reach me **laguerre.frrederique@gmail.com**
+🌱 Actuellement, je m'immerge dans le monde du développement web, mettant en pratique les langages techniques appris au cours des derniers mois.
+
+👨‍⚕️ Fun fact : Pendant les trois dernières années, j'ai adoré être papa au foyer.
+
+🔥 Je travaille toujours sur mon projet final au Wagon, intitulé "Share", et je prends énormément de plaisir dans ce processus.
+
+📫 N'hésitez pas à me contacter à  **laguerre.frrederique@gmail.com** Je suis ouvert aux échanges, partage d'expériences ou à l'exploration de collaborations potentielles. Construisons quelque chose d'extraordinaire ensemble ! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
