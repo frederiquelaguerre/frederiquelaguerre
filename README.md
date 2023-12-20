@@ -7,7 +7,7 @@
 
 🔥 Je travaille sur un projet pour fortifier mon portfolo, intitulé "MangaMemo", et je prends énormément de plaisir dans ce processus.
 
-📫 N'hésitez pas à me contacter à  **laguerre.frrederique@gmail.com** Je suis ouverte aux échanges, partage d'expériences ou à l'exploration de collaborations potentielles. Construisons quelque chose d'extraordinaire ensemble ! 🚀
+📫 N'hésitez pas à me contacter à  **laguerre.frederique@gmail.com** Je suis ouverte aux échanges, partage d'expériences ou à l'exploration de collaborations potentielles. Construisons quelque chose d'extraordinaire ensemble ! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
